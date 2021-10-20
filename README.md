@@ -1,9 +1,9 @@
 # A Yen for the future
-## Prediction of USD/JPY exchange rate futures price
+Prediction of USD/JPY exchange rate futures price
 
 ## Tools for prediction
-・Time series analysis - ARMA, ARIMA, GARCH
-・Machine learning - Linear regression
+・Time series analysis - **ARMA**, **ARIMA**, **GARCH**,<br />
+・Machine learning - **Linear regression**
 
 ## Time Series Analysis
 ARMA model forecasts the price will decline over next five days while ARIMA model forecasts the opposite.
